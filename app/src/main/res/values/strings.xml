@@ -1,8 +1,3 @@
 <resources>
-    <string name="app_name">MyFirst App</string>
-    <string name="button2">Кнопка 2</string>
-    <string name="button1">Кнопка 1</string>
-    <string name="_1">Выбери вариант 1</string>
-    <string name="_2">Выбери вариант 2</string>
-    <string name="_3">Выбери вариант 3</string>
+    <string name="app_name">My Application</string>
 </resources>
